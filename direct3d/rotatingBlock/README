@@ -1,0 +1,4 @@
+A simple rotating block. 
+
+Control up and down to rotate along the cube's local x-axis.
+Control right and left to rotate along the cube's local y-axis.
